@@ -28,7 +28,7 @@ This beginner-friendly cybersecurity project simulates host-based firewall harde
 ![Firewall Console](screenshots/firewall-main.png)
 
 ### 2. Block Chrome – Rule Setup
-![Chrome Rule](screenshots/block-chrome-rule.png)
+![Chrome Rule](block-chrome-rule.png)
 
 ### 3. Chrome Cannot Connect (Test Result)
 ![Chrome Blocked](screenshots/chrome-blocked-test.png)
