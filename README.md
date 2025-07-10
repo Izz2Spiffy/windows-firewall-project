@@ -34,7 +34,7 @@ This beginner-friendly cybersecurity project simulates host-based firewall harde
 ![Chrome Blocked](screenshots/chrome-blocked-test.png)
 
 ### 4. ICMP Rule Configuration
-![ICMP Rule](screenshots/icmp-rule.png)
+![ICMP Rule](icmp-rule.png)
 
 ### 5. Ping Test from Another Device
 ![Ping Test Timeout](ping-test-macbook.png)
