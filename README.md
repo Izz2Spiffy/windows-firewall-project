@@ -37,7 +37,7 @@ This beginner-friendly cybersecurity project simulates host-based firewall harde
 ![ICMP Rule](screenshots/icmp-rule.png)
 
 ### 5. Ping Test from Another Device
-![Ping Test Timeout](screenshots/ping-test-macbook.png)
+![Ping Test Timeout](ping-test-macbook.png)
 
 ---
 
