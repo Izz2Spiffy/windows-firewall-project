@@ -31,7 +31,7 @@ This beginner-friendly cybersecurity project simulates host-based firewall harde
 ![Chrome Rule](block-chrome-rule.png)
 
 ### 3. Chrome Cannot Connect (Test Result)
-![Chrome Blocked](screenshots/chrome-blocked-test.png)
+![Chrome Blocked](chrome-blocked-test.png)
 
 ### 4. ICMP Rule Configuration
 ![ICMP Rule](icmp-rule.png)
