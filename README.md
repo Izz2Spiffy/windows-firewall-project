@@ -25,7 +25,7 @@ This beginner-friendly cybersecurity project simulates host-based firewall harde
 ## 📸 Screenshots
 
 ### 1. Firewall Main Console
-![Firewall Console](screenshots/firewall-main.png)
+![Firewall Console](firewall-main.png)
 
 ### 2. Block Chrome – Rule Setup
 ![Chrome Rule](block-chrome-rule.png)
